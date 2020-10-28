@@ -1,0 +1,2 @@
+.element {
+  flex-basis: calc ((100% - amount of margin in line * value of margin)/element's amount in liune)}
